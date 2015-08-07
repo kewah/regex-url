@@ -1,0 +1,28 @@
+{
+  "name": "regex-url",
+  "version": "0.0.0",
+  "description": "Regex to match an url",
+  "main": "index.js",
+  "keywords": [
+    "url",
+    "regex",
+    "regexp"
+  ],
+  "license": "MIT",
+  "author": "Antoine Lehurt <code@kewah.com> (http://kewah.com/)",
+  "homepage": "https://github.com/kewah/regex-url",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kewah/regex-url"
+  },
+  "bugs": {
+    "url": "https://github.com/kewah/regex-url/issues"
+  },
+  "scripts": {
+    "test": "tape test.js | tap-min"
+  },
+  "devDependencies": {
+    "tap-min": "1.0.0",
+    "tape": "4.0.3"
+  }
+}
