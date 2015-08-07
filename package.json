@@ -1,6 +1,6 @@
 {
   "name": "regex-url",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Regex to match an url",
   "main": "index.js",
   "keywords": [
